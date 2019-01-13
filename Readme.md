@@ -5,4 +5,4 @@ Crm-alpha-server. Express backend app
     3. Sequelize ORM. ORM for DAO layer
     4. i18n. Internationalization library
 
-![Alt text](app/docs/screenshot.png?raw=true "Snapshot")
+![Alt text](screenshot.png?raw=true "Snapshot")
